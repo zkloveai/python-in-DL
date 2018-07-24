@@ -1,0 +1,1 @@
+使用的是WIN10系统，装的anaconda 找到IPYNB文件所在文件夹，按出shift键 选择在此处打开cmd 然后输入 jupyter notebook 
